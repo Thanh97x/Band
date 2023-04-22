@@ -1,0 +1,6 @@
+
+
+***
+	PC: >=1024px là máy tính 
+	tablet: >=740px vs < 1024: là máy tính bảng
+	Mobile: <740px : là điện thoại
